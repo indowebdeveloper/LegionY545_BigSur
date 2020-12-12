@@ -7,6 +7,8 @@
 This is my first release of EFI for my Hackintosh Legion Y545 on Big Sur 11.0.1
 The purpose of this article is to make LENOVO LEGION Y545 series laptops use MacOS as perfectly as possible.
 
+* DONT FORGET TO ADD YOUR OWN SERIAL NUMBER ON CONFIG.PLIST
+
 ## what do you need
 
 -   Downloaded MacOS image (macOS Big Sur image installation)
