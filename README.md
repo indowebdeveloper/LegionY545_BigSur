@@ -1,11 +1,13 @@
 
-# LegionY545_BigSur
-![enter image description here](https://cdn.imageupload.workers.dev/J99yn0jF_about.png)
-This is my first release of EFI for my Hackintosh Legion Y545 on Big Sur 11.0.1
+## LegionY545_BigSur
 
+![My Big Sur](https://github.com/indowebdeveloper/LegionY545_BigSur/blob/main/about.png)
+
+## What is this ??
+This is my first release of EFI for my Hackintosh Legion Y545 on Big Sur 11.0.1
 The purpose of this article is to make LENOVO LEGION Y545 series laptops use MacOS as perfectly as possible.
 
-# what do you need
+## what do you need
 
 -   Downloaded MacOS image (macOS Big Sur image installation)
 -   16GB U Disk
